@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: rgb(240, 250, 245);
+}
+.title-img{
+    width: 100%;
+    height: 200px;
+}
+form{
+    border: 1px solid #3E3D41;
+    border-radius: 30px;
+    padding: 30px;
+}
+.btn{
+    background-color: #3E3D41;
+    color: white;
+}
+.title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-title{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    margin-bottom: 10px;
+}
+.card{
+    margin-top: 20px;
+    width: 30% !important;
+    height: 30% !important;
+    background-color: black;
+    border: 2px solid #3E3D41;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.card-img-top{
+    height: 180px;
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+}
+.card-body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
